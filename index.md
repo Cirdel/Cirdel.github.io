@@ -2,6 +2,7 @@
 
 <a target="_blank" href="http://7xqoji.com1.z0.glb.clouddn.com/mytest.jpg"><img src="http://7xqoji.com1.z0.glb.clouddn.com/mytest.jpg" width="500" hegiht="313" align=center /></a>
 
+QAQ
 
 ### · 个人联系方式
 ###### -添加qq好友:<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1060802477&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1060802477:52" alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account"/></a><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes">1060802477</a>
