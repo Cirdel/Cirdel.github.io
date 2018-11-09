@@ -5,6 +5,7 @@
 </center>
 
 <center>--·-----===--==·==--===-----·--</center>
+
 <center>半城花落半城秋，风霜尽枫休，</center>
 <center>半墙斜阳桑染卷，桂落氲阴愁。</center>
 <center>愁愁愁愁愁愁愁，何所吾心归？</center>
@@ -13,7 +14,9 @@
 <center>
 <img src="https://upload.cc/i1/2018/11/09/VENgfF.jpg" width="25%" height="25%" />
 </center>
+
 <center>奋斗中考 势在必行</center>
+
 <center>--·-----===--==·==--===-----·--</center>
 
 <center>:new_moon: :waxing_crescent_moon: :first_quarter_moon: :moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:	:new_moon:</center>
