@@ -4,8 +4,8 @@
 
 
 ### · 个人联系方式
-###### -添加我qq好友:<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1060802477&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1060802477:52" alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account"/></a><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes">1060802477</a>
-###### -添加我WeChat好友: <a href="https://weixin.qq.com/">WeChat ID:FantasyMinecraft</a>
+###### -添加qq好友:<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1060802477&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1060802477:52" alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account"/></a><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes">1060802477</a>
+###### -添加WeChat好友: <a href="https://weixin.qq.com/">ID:FantasyMinecraft</a>
 ###### -bilibili:<a href="http://space.bilibili.com/59190299?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678">TheCirdel</a>
 ###### -YouTuBe:<a href="https://www.youtube.com/channel/UC2CGBuj3mPRySXfKZpibNXw">TheCirdel</a>
 ###### -FaceBook:<a href="https://www.facebook.com/sa.cirdel">SACirdel</a>
