@@ -4,12 +4,12 @@
 <img src="https://s1.ax1x.com/2018/11/09/ibttXt.jpg" width="35%" height="35%" />
 </center>
 
------===-----===-----
+<center>--·-----===--==·==--===-----·--</center>
 <center>
 <img src="https://upload.cc/i1/2018/11/09/VENgfF.jpg" width="25%" height="25%" />
 </center>
 <center>奋斗中考</center>
------===-----===-----
+<center>--·-----===--==·==--===-----·--</center>
 
 ### · 个人联系方式
 ###### -添加qq好友:                                              
