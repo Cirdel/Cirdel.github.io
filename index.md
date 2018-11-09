@@ -16,6 +16,8 @@
 <center>奋斗中考 势在必行</center>
 <center>--·-----===--==·==--===-----·--</center>
 
+### · 当前时令:冬天:snowflake:
+:new_moon: :waxing_crescent_moon: :first_quarter_moon: :moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:	:new_moon:
 ### · 个人联系方式 :leo:
 ###### -添加qq好友:                                              
 >   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
