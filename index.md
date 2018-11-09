@@ -16,7 +16,7 @@
 <center>奋斗中考 势在必行</center>
 <center>--·-----===--==·==--===-----·--</center>
 
-### · 个人联系方式
+### · 个人联系方式 :leo:
 ###### -添加qq好友:                                              
 >   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
 
