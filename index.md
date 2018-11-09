@@ -5,10 +5,14 @@
 </center>
 
 <center>--·-----===--==·==--===-----·--</center>
-<center>
+<center>半城花落半城秋，风霜尽枫休，</center>
+<center>半墙斜阳桑染卷，桂落氲阴愁。</center>
+<center>愁愁愁愁愁愁愁，何所吾心归？</center>
+<center>年少青华风发意，盛秋塞春风！</center>
+<center>少年不知何为志，心负五洋州。</center>
 <img src="https://upload.cc/i1/2018/11/09/VENgfF.jpg" width="25%" height="25%" />
 </center>
-<center>奋斗中考</center>
+<center>奋斗中考 势在必行</center>
 <center>--·-----===--==·==--===-----·--</center>
 
 ### · 个人联系方式
