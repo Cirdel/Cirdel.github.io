@@ -1,12 +1,14 @@
 ## 欢迎来到<a href="https://baike.baidu.com/item/%E5%92%95/4671609?fr=aladdin">咕咕侠</a>Cirdel的GitHub Bolg
 
-<a target="_blank" href="http://7xqoji.com1.z0.glb.clouddn.com/mytest.jpg"><img src="http://7xqoji.com1.z0.glb.clouddn.com/mytest.jpg" width="500" hegiht="313" align=center /></a>
-
-QAQ
+<center>
+<img src="https://imgchr.com/i/iHjOoR" width="25%" height="25%" />
+</center>
 
 ### · 个人联系方式
-###### -添加qq好友:<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1060802477&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1060802477:52" alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account"/></a><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes">1060802477</a>
-###### -添加WeChat好友: <a href="https://weixin.qq.com/">ID:FantasyMinecraft</a>
+###### -添加qq好友:                                              
+   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
+###### -添加WeChat好友: 
+   WeChat ID:<a href="https://weixin.qq.com/">ID:FantasyMinecraft</a>
 ###### -bilibili:<a href="http://space.bilibili.com/59190299?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678">TheCirdel</a>
 ###### -YouTuBe:<a href="https://www.youtube.com/channel/UC2CGBuj3mPRySXfKZpibNXw">TheCirdel</a>
 ###### -FaceBook:<a href="https://www.facebook.com/sa.cirdel">SACirdel</a>
