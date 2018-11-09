@@ -19,21 +19,21 @@
 
 <center>--·-----===--==·==--===-----·--</center>
 
-<center>:new_moon: :waxing_crescent_moon: :first_quarter_moon: :moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:	:new_moon:</center>
+<center>:new_moon::waxing_crescent_moon::first_quarter_moon: :moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:</center>
 
 ### · 当前时令:冬天:snowman:
 
-全国平均气温8℃~18℃（46.4℉~64.4℉）:snowman:
+全国平均气温8℃~18℃（46.4℉~64.4℉:snowman:
 
-白天平均气温18℃(64.4℉) :clock5:
+白天平均气温18℃(64.4℉):clock5:
 
 夜间平均气温8℃(46.4℉):clock9:
 
-日均最低温度-1℃(30.2℉) :snowflake:
+日均最低温度-1℃(30.2℉):snowflake:
 
-日均最高温度8℃(46.4℉) :sun_with_face:
+日均最高温度8℃(46.4℉):sun_with_face:
 
-平均降水总量21mm :cloud:
+平均降水总量21mm:cloud:
 
 <center>:new_moon: :waxing_crescent_moon: :first_quarter_moon: :moon: :full_moon: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:	:new_moon:</center>
 
