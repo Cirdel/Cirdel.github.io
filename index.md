@@ -8,7 +8,7 @@
 ###### -添加qq好友:                                              
    QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
 ###### -添加WeChat好友: 
-   WeChat ID:<a href="https://weixin.qq.com/">ID:FantasyMinecraft</a>
+   WeChat ID:<a href="https://weixin.qq.com/">FantasyMinecraft</a>
 ###### -bilibili:<a href="http://space.bilibili.com/59190299?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678">TheCirdel</a>
 ###### -YouTuBe:<a href="https://www.youtube.com/channel/UC2CGBuj3mPRySXfKZpibNXw">TheCirdel</a>
 ###### -FaceBook:<a href="https://www.facebook.com/sa.cirdel">SACirdel</a>
