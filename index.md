@@ -1,7 +1,7 @@
 ## 欢迎来到<a href="https://baike.baidu.com/item/%E5%92%95/4671609?fr=aladdin">咕咕侠</a>Cirdel的GitHub Bolg
 
 <center>
-<img src="https://imgchr.com/i/iHjOoR" width="50%" height="50%" />
+<img src="https://imgchr.com/i/ibttXt" width="50%" height="50%" />
 </center>
 
 ### · 个人联系方式
