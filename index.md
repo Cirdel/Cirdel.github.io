@@ -4,7 +4,7 @@
 <img src="https://s1.ax1x.com/2018/11/09/ibttXt.jpg" width="35%" height="35%" />
 </center>
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script> src="//dn-lbstatics.qbox.me/lbservice/counter/1.0/counter.mini.js"/></script <span id="container_site_counter">博客总访问量<span id="value_site_counter"></span>次。</span>
 
 <center>  --·-----=w=w=--==我是一条分界线==--=w=w=-----·--  </center>
 
@@ -40,19 +40,19 @@
 <center>🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌖 🌑</center>
 
 ### · 个人联系方式   ♌️
-###### >-添加qq好友:                                              
+###### > -添加qq好友:                                              
 >>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
->
-###### >-添加WeChat好友: 
+
+###### > -添加WeChat好友: 
 >>  WeChat ID:<a href="https://weixin.qq.com/"  alt="Cirdel&#39;s WeChat Account" title="Cirdel&#39;s WeChat Account">FantasyMinecraft</a>
->
-###### >-bilibili:
+
+###### > -bilibili:
 >>bilibili ID:<a href="http://space.bilibili.com/59190299?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678"  alt="关注点赞收藏投币qwq" title="关注点赞收藏投币qwq">TheCirdel</a>
->
-###### >-YouTuBe:
+
+###### > -YouTuBe:
 >>YouTuBe Page:<a href="https://www.youtube.com/channel/UC2CGBuj3mPRySXfKZpibNXw"  alt="404 NOT FOUND" title="404 NOT FOUND">TheCirdel</a>
->
-###### >-FaceBook:
+
+###### > -FaceBook:
 >>FaceBook Page:<a href="https://www.facebook.com/sa.cirdel"  alt="404 NOT FOUND" title="404 NOT FOUND">SACirdel</a>
 
 ###### >-个人邮箱:
