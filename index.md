@@ -4,7 +4,7 @@
 <img src="https://s1.ax1x.com/2018/11/09/ibttXt.jpg" width="35%" height="35%" />
 </center>
 
-<script> src="//dn-lbstatics.qbox.me/lbservice/counter/1.0/counter.mini.js"/></script <span id="container_site_counter">博客总访问量<span id="value_site_counter"></span>次。</span>
+<script> src="//dn-lbstatics.qbox.me/lbservice/counter/1.0/counter.mini.js"/></script> <span id="container_site_counter">博客总访问量<span id="value_site_counter"></span>次。</span>
 
 <center>  --·-----=w=w=--==我是一条分界线==--=w=w=-----·--  </center>
 
