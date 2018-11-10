@@ -8,7 +8,7 @@
     <script>src="//dn-lbstatics.qbox.me/lbservice/counter/1.0/counter.mini.js"/></script>
     <span id="container_site_counter">博客总访问量<span id="value_site_counter"></span>  次。</span>
 
-<script src="//update.php?id=1"></script>博客访问量
+
 
 
 <center>  --·-----=w=w=--==我是一条分界线==--=w=w=-----·--  </center>
