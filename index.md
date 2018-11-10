@@ -42,16 +42,16 @@
 ### · 个人联系方式   ♌️
 ###### >-添加qq好友:                                              
 >>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
-
+>
 ###### >-添加WeChat好友: 
 >>  WeChat ID:<a href="https://weixin.qq.com/"  alt="Cirdel&#39;s WeChat Account" title="Cirdel&#39;s WeChat Account">FantasyMinecraft</a>
-
+>
 ###### >-bilibili:
 >>bilibili ID:<a href="http://space.bilibili.com/59190299?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678"  alt="关注点赞收藏投币qwq" title="关注点赞收藏投币qwq">TheCirdel</a>
-
+>
 ###### >-YouTuBe:
 >>YouTuBe Page:<a href="https://www.youtube.com/channel/UC2CGBuj3mPRySXfKZpibNXw"  alt="404 NOT FOUND" title="404 NOT FOUND">TheCirdel</a>
-
+>
 ###### >-FaceBook:
 >>FaceBook Page:<a href="https://www.facebook.com/sa.cirdel"  alt="404 NOT FOUND" title="404 NOT FOUND">SACirdel</a>
 
