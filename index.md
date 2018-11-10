@@ -4,7 +4,7 @@
 <img src="https://s1.ax1x.com/2018/11/09/ibttXt.jpg" width="35%" height="35%" />
 </center>
 
-<center><font color=gray size=3>--·-----=w=w=--==我是一条分界线==--=w=w=-----·--</font></center>
+<center> <font color=gray size=3> --·-----=w=w=--==我是一条分界线==--=w=w=-----·-- </font> </center>
 
 <center>半城花落半城秋，风霜尽枫休，</center>
 <center>半墙斜阳桑染卷，桂落氲阴愁。</center>
