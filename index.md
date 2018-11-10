@@ -7,15 +7,8 @@
     然后我不知道这玩意咋用QwQ:
     <script>src="//dn-lbstatics.qbox.me/lbservice/counter/1.0/counter.mini.js"/></script><span id="container_site_counter">博客总访问量<span id="value_site_counter"></span>  次。</span>
 
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?d602e582e1fd815f4e0b520aec967aaa";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
+<script src="update.php?id=1"></script> 
+
 
 <center>  --·-----=w=w=--==我是一条分界线==--=w=w=-----·--  </center>
 
