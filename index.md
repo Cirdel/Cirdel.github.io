@@ -1,8 +1,6 @@
 ## 欢迎来到<a href="https://baike.baidu.com/item/%E5%92%95/4671609?fr=aladdin">咕咕侠</a>Cirdel的GitHub Blog
 
-<center>
-<img src="https://s1.ax1x.com/2018/11/09/ibttXt.jpg" width="35%" height="35%" />
-</center>
+<embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
     然后我不知道这玩意咋用QwQ:
     <script>src="//dn-lbstatics.qbox.me/lbservice/counter/1.0/counter.mini.js"/></script>
