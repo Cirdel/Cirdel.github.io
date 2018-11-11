@@ -1,13 +1,14 @@
 ## 欢迎来到<a href="https://baike.baidu.com/item/%E5%92%95/4671609?fr=aladdin">咕咕侠</a>Cirdel的GitHub Blog
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<img src="https://upload.cc/i1/2018/11/11/LgmfDy.jpg" width="25%" height="25%" />
+</center>
 
     然后我不知道这玩意咋用QwQ:
     <script>src="//dn-lbstatics.qbox.me/lbservice/counter/1.0/counter.mini.js"/></script>
     <span id="container_site_counter">博客总访问量<span id="value_site_counter"></span>  次。</span>
 
+<embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=511927512&auto=1&height=66"></iframe>
 
 <center>  --·-----=w=w=--==我是一条分界线==--=w=w=-----·--  </center>
 
