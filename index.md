@@ -7,7 +7,6 @@
     <script>src="//dn-lbstatics.qbox.me/lbservice/counter/1.0/counter.mini.js"/></script>
     <span id="container_site_counter">博客总访问量<span id="value_site_counter"></span>  次。</span>
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 
 <center>  --·-----=w=w=--==我是一条分界线==--=w=w=-----·--  </center>
@@ -25,8 +24,7 @@
 
 <center>  --·-----=w=w=--==我是一条分界线==--=w=w=-----·--  </center>
 
-<center> x_0+\frac{1}{x_1+\frac{1}{x_2+\frac{1}{x_3+\frac{1}{x_4 </center>
-
+<embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 <center>🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌖 🌑</center>
 
