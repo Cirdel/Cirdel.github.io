@@ -36,7 +36,6 @@
 " width="50%" height="50%" /></a>
 <a href="https://cirdel.github.io/MineCraftServer"><img src="https://upload.cc/i1/2018/12/15/N1AMXG.jpg
 " width="50%" height="50%" /></a>
-<center>🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌖 🌑</center>
 <center> </center>
 <center> </center>
 <center> </center>
