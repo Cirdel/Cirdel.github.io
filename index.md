@@ -19,7 +19,7 @@
 <center>年少青华风发意，盛秋塞春风！</center>
 <center>少年不知何为志，心负五洋州。</center>
 <center>
-<a href="sagrado"><img src="http://user-assets.sxlcdn.com/images/344846/FpLWvV4oxbFeuj0MpxlTjapi0rBP.jpeg?imageMogr2/strip/auto-orient/thumbnail/2000x1500&gt;/quality/90!/interlace/1/format/jpeg" width="100%" height="100%" /></a>
+<a href="sagradoaurora"><img src="http://user-assets.sxlcdn.com/images/344846/FpLWvV4oxbFeuj0MpxlTjapi0rBP.jpeg?imageMogr2/strip/auto-orient/thumbnail/2000x1500&gt;/quality/90!/interlace/1/format/jpeg" width="100%" height="100%" /></a>
 </center>
 <center>合照镇博(雾</center>
 <center> </center>
@@ -29,8 +29,8 @@
 <embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 <center> </center>
     <embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
-<center> </center>
-<center> </center>
+<center>  </center>
+<center>  </center>
 <center>🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌖 🌑</center>
 <center> </center>
 ### · 当前时令:冬天 ❄️
