@@ -1,34 +1,38 @@
 ## 欢迎来到<a href="https://baike.baidu.com/item/%E5%92%95/4671609?fr=aladdin">咕咕侠</a>Cirdel的GitHub Blog
-
+<center> </center>
 <center><img src="https://upload.cc/i1/2018/11/11/LgmfDy.jpg" width="25%" height="25%" /></center>
-
-    然后知道这玩意咋用QwQ:
+<center> </center>
+<center> </center>
+          
+    然后不知道这玩意咋用QwQ:
     <script>src="//dn-lbstatics.qbox.me/lbservice/counter/1.0/counter.mini.js"/></script>
     <span id="container_site_counter">博客总访问量<span id="value_site_counter"></span>  次。</span>
 
 
 
 <center>  我是一条分界线  </center>
-
+<center> </center>
+<center> </center>
 <center>半城花落半城秋，风霜尽枫休，</center>
 <center>半墙斜阳桑染卷，桂落氲阴愁。</center>
 <center>愁愁愁愁愁愁愁，何所吾心归？</center>
 <center>年少青华风发意，盛秋塞春风！</center>
 <center>少年不知何为志，心负五洋州。</center>
 <center>
-<a href="cirdel.github.io/sagrado"><img src="http://user-assets.sxlcdn.com/images/344846/FpLWvV4oxbFeuj0MpxlTjapi0rBP.jpeg?imageMogr2/strip/auto-orient/thumbnail/2000x1500&gt;/quality/90!/interlace/1/format/jpeg" width="25%" height="25%" /></a>
+<a href="cirdel.github.io/sagrado"><img src="http://user-assets.sxlcdn.com/images/344846/FpLWvV4oxbFeuj0MpxlTjapi0rBP.jpeg?imageMogr2/strip/auto-orient/thumbnail/2000x1500&gt;/quality/90!/interlace/1/format/jpeg" width="100%" height="100%" /></a>
 </center>
 <center>合照镇博(雾</center>
-<center>  奋 📘 斗 📒 中 📓 考 📕 势 📓 在 📒 必 📘 行  </center>
-
+<center> </center>
+<center> </center>
 <center>  我是一条分界线  </center>
-
+<center> </center>
 <embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
-
+<center> </center>
     <embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
-
+<center> </center>
+<center> </center>
 <center>🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌖 🌑</center>
-
+<center> </center>
 ### · 当前时令:冬天 ❄️
 
 >>全国平均气温8℃~18℃（46.4℉~64.4℉⛄️
@@ -44,7 +48,8 @@
 >平均降水总量21mm☔️
 
 <center>🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌖 🌑</center>
-
+<center> </center>
+<center> </center>
 ### · 个人联系方式   ♌️
  ###### -添加qq好友:                                              
 >>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
