@@ -20,13 +20,9 @@
 　　　
 　　　
 <center>  我是一条分界线  </center>
-<center> </center>
-<embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
-<center> </center>
-    <embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 　　　
 　　　
-### -近期文章 | 博客更新 ☕️
+### 近期文章 | 博客更新 ☕️
 
 <a href="https://cirdel.github.io/SagradoAurora"><img src="https://upload.cc/i1/2018/12/15/hc1lNr.jpg
 " width="50%" height="50%" /></a>
@@ -66,5 +62,7 @@
 > 
 >海外:<a href="https://mail.google.com/mail/u/0/#"  alt="OverseasMail,rarely used" title="OverseasMail,rarely used">Gmail: tc.lucky.minecraft@gmail.com</a>   OverseasMail,rarely used
 > 
- 
+<embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<center> </center>
+    <embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"> 
     Not Hotmail 126Mail 163Mail
