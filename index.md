@@ -1,4 +1,4 @@
-## 欢迎来到<a href="https://baike.baidu.com/item/%E5%92%95/4671609?fr=aladdin">咕咕侠</a>Cirdel的GitHub Blog
+## <a href="https://baike.baidu.com/item/%E5%92%95/4671609?fr=aladdin">咕咕侠</a>Cirdel'sGitHub Blog
 <center> </center>
 <center><img src="https://upload.cc/i1/2018/11/11/LgmfDy.jpg" width="25%" height="25%" /></center>
 <center> </center>
@@ -35,7 +35,7 @@
     <embed src="//music.163.com/style/swf/widget.swf?sid=511927512&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 　　　
 　　　
-### -近期文章
+### -近期文章 | 博客更新 ☕️
 
 <a href="https://cirdel.github.io/SagradoAurora"><img src="https://upload.cc/i1/2018/12/15/hc1lNr.jpg
 " width="50%" height="50%" /></a>
@@ -54,11 +54,11 @@
       　　　
 ### · 个人联系方式   ♌️
 ###### -<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"><img src="https://upload.cc/i1/2018/12/16/oq3tgY.png" width="50%" height="50%" /></a>                                            
->>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
+>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
 > 
 https://upload.cc/i1/2018/12/16/8mpQ0V.png
 ###### -<a href="https://weixin.qq.com/"><img src="https://upload.cc/i1/2018/12/16/8mpQ0V.png" width="50%" height="50%" /></a>  
->>  WeChat ID:<a href="https://weixin.qq.com/"  alt="Cirdel&#39;s WeChat Account" title="Cirdel&#39;s WeChat Account">FantasyMinecraft</a>
+>  WeChat ID:<a href="https://weixin.qq.com/"  alt="Cirdel&#39;s WeChat Account" title="Cirdel&#39;s WeChat Account">FantasyMinecraft</a>
 > 
 
 ###### -<a href="http://space.bilibili.com/59190299?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678"><img src="https://upload.cc/i1/2018/12/16/UXfe8R.png" width="50%" height="50%" /></a> 
