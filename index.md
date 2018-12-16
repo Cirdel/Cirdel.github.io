@@ -11,17 +11,8 @@
 　　　
    　　　
 <center>  我是一条分界线  </center>
-　　　
-　　　
-<center>半城花落半城秋，风霜尽枫休，</center>
-<center>半墙斜阳桑染卷，桂落氲阴愁。</center>
-<center>愁愁愁愁愁愁愁，何所吾心归？</center>
-<center>年少青华风发意，盛秋塞春风！</center>
-<center>少年不知何为志，心负五洋州。</center>
-　　　
-   　　　
-　　　
-   　　　
+　　　   　
+       　　　   
 <center>
 <a href="https://cirdel.github.io/SagradoAurora"><img src="http://user-assets.sxlcdn.com/images/344846/FpLWvV4oxbFeuj0MpxlTjapi0rBP.jpeg?imageMogr2/strip/auto-orient/thumbnail/2000x1500&gt;/quality/90!/interlace/1/format/jpeg" width="100%" height="100%" /></a>
 </center>
