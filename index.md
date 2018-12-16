@@ -36,9 +36,13 @@
 　　　
 　　　
 ### -近期文章
-<a href="https://cirdel.github.io/SagradoAurora"><img src="https://upload.cc/i1/2018/12/15/hc1lNr.jpg
+<a href="https://cirdel.github.io/SagradoAurora">  　<img src="https://upload.cc/i1/2018/12/15/hc1lNr.jpg
 " width="50%" height="50%" /></a>
-<a href="https://cirdel.github.io/MineCraftServer"><img src="https://upload.cc/i1/2018/12/15/N1AMXG.jpg
+   　　
+<a href="https://cirdel.github.io/MineCraftServer">   <img src="https://upload.cc/i1/2018/12/15/N1AMXG.jpg
+" width="50%" height="50%" /></a>
+   　　
+<a href="https://cirdel.github.io/FriendShip">   <img src="https://upload.cc/i1/2018/12/16/MUoy9p.png
 " width="50%" height="50%" /></a>
 <center> </center>
 <center> </center>
