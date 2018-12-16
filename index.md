@@ -53,7 +53,8 @@
    　　　
       　　　
 ### · 个人联系方式   ♌️
-###### -添加qq好友:                                              
+###### -添加qq好友: <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"><img src="https://img.shields.io/badge/QQ-1060802477-lightgrey.svg
+" width="50%" height="50%" /></a>                                            
 >>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=1060802477&amp;site=qq&amp;menu=yes"  alt="Cirdel&#39;s qq Account" title="Cirdel&#39;s qq Account">1060802477</a>
 > 
 
@@ -82,3 +83,4 @@
 > 
  
     Not Hotmail 126Mail 163Mail
+https://img.shields.io/badge/QQ-1060802477-lightgrey.svg
